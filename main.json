@@ -1,0 +1,7 @@
+{
+    "company": "KARTIK SHARMA" (The company you want to invest in),
+    "currentPrice": 100 (Look up the real price from the internet),
+    "accountNumber": 2111981098( You’ll be getting this in the response from the first
+    API ),
+    "githubRepoLink" : " https://github.com/Kartikx11/buysellstock/tree/main"
+    }
